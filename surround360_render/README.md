@@ -1,4 +1,7 @@
 # Surround 360 Rendering Software
+This is a fascinating project and hat's off to the folks at FB for open sourcing it. I've been only involved n capture and stitching of this imagery for a few months but already see the widespread applications for education and documentary work.
+
+Below is a fork of the Facebook Surround 360 project on August 15th 2016.
 
 Surround 360 is a hardware and software system for capturing and rendering 3d (stereo) 360 videos and photos, suitable for viewing in VR. This subdirectory of the project is specific to rendering software.
 
